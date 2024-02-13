@@ -1,0 +1,50 @@
+_repo: Ars-magna_72799
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Milosz, O. V. de L. (Oscar Vladislas de Lubicz)
+    aliases:
+    - Milosz, Oscar Vladislas
+    - De Lubicz Milosz, O. V. (Oscar Vladislas)
+    - Lubicz Milosz, O. V. (Oscar Vladislas)
+    - Milosz, Oskar
+    - Milasius, O. V. (Oskaras Vladislovas)
+    - Milosz, Oscar Vladislas de Lubicz-
+    - Lubicz-Milosz, Oscar Vladislas de
+    birthdate: 1877
+    deathdate: 1939
+    gutenberg_agent_id: '54434'
+    url: http://www.gutenberg.org/2009/agents/54434
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Oscar_Milosz
+    - https://lt.wikipedia.org/wiki/Oskaras_Mila%C5%A1ius
+    - https://fr.wikipedia.org/wiki/Oscar_Vladislas_de_Lubicz-Milosz
+description: ''
+gutenberg_issued: '2024-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72799'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k9734795g
+pgterms:marc905: 20240124114814milosz
+pgterms:marc906: '1924'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: '  $aParis :$bPresses universitaires de France, $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Essays'
+- !lcsh 'Religion and science'
+- !lcsh 'Alchemy'
+- !lcsh 'Spiritual life'
+- !lcsh 'Prose poems'
+- !lcsh 'Cabala'
+- !lcc 'PQ'
+- GITenberg
+tableOfContents: Avertissement -- Épître à Storge -- Memoria -- Nombres -- Turba magna
+  -- Lumen.
+title: Ars magna
+url: http://www.gutenberg.org/ebooks/72799
